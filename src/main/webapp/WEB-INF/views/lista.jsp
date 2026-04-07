@@ -11,8 +11,8 @@
 <body>
 <div class="container">
     <div class="header">
-        <h1>📇 Meus Contactos</h1>
-        <p>Gerencie sua agenda com Java MVC + PostgreSQL (Local ou Neon)</p>
+        <h1>📇 Cadastro de Contactos</h1>
+        <p>Aplicacao de cadastro de contactos, e guardado em nuvem pra ABD</p>
     </div>
     <div class="content">
         <c:if test="${param.success != null}">
